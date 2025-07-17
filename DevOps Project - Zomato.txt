@@ -1,4 +1,4 @@
-DevOps Project - Kastro
+DevOps Project - Aditya(mentor Kastro sir)
 Deployment of ZOMATO Project
 --------------------------------------------
 Repo URL: https://github.com/KastroVKiran/DevOps-Project-Zomato-Kastro.git
